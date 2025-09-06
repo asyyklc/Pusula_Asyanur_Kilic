@@ -81,9 +81,8 @@ def preprocess_text_columns(df):
 
 
 
-# -------------------------
+
 # 3) EDA
-# -------------------------
 def eda(df):
     print(df.shape)
     print(df.head(10))
